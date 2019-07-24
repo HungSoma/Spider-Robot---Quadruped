@@ -21,7 +21,7 @@ Parts of Robot:
 
 ## Done 
 
-[[https://github.com/HungSoma/Spider-Robot---Quadruped/blob/master/img/spi.PNG|alt=octocat]]
+![alt text](https://github.com/HungSoma/Spider-Robot---Quadruped/blob/master/img/spi.PNG)
 
 ## Let check my video
 
